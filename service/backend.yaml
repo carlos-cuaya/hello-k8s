@@ -10,4 +10,4 @@ spec:
     protocol: TCP
   selector:
     role: backend
-    app: hello
+    app: hello-backend
