@@ -24,5 +24,5 @@ spec:
     targetPort: 80
     protocol: TCP
   selector:
-    app: hello
-    role: hello-frontend
+    app: hello-frontend
+    role: frontend
